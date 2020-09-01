@@ -12,5 +12,11 @@
     <groupId>com.zxl.</groupId>
     <artifactId>serviceBase</artifactId>
 
-
+<dependencies>
+    <dependency>
+        <groupId>com.zxl</groupId>
+        <artifactId>common_utils</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+</dependencies>
 </project>
