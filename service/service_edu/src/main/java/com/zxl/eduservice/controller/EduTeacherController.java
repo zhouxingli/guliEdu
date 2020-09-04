@@ -28,6 +28,7 @@ import java.util.Map;
  */
 @RestController
 @RequestMapping("/eduservice/edu-teacher")
+@CrossOrigin //解决跨域问题
 public class EduTeacherController {
 
 
