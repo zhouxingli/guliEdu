@@ -18,7 +18,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.zxl.</groupId>
+            <groupId>com.zxl</groupId>
             <artifactId>serviceBase</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

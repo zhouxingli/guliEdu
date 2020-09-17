@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zxl.</groupId>
+    <groupId>com.zxl</groupId>
     <artifactId>serviceBase</artifactId>
 
 <dependencies>

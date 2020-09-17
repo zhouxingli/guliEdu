@@ -50,7 +50,6 @@
             <artifactId>springfox-swagger-ui</artifactId>
             <scope>provided </scope>
         </dependency>
-
         <!-- redis -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
